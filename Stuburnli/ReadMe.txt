@@ -1,5 +1,5 @@
 ************
-This app is still under developement. It has been only implemented as a part of course. App is being further developed to implement more features.
+This app is still under developement. It has been implemented as a part of course. App is being further developed to implement more features and make it bug free.
 Check the App Screenshots folder for the images of the application.
 Features: 
 1. Username and password for each individual user.
